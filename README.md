@@ -10,10 +10,60 @@ Designed a mapping GIS catered specifically towards tourists using data procured
 
 
 ## Demo of MyTour
+
 This demo shows how the application can be used to help users plan their trip to the city of Toronto.
 
+
 ### Zoom and Shift Map
+
 Users have the ability to easily zoom and move the map to explore a new city
 ![MyTour](demo/zoom_move.gif)
 
 
+### Show Physical Features
+
+Users can click to see physical features which are filtered out to optimize usability, due to the fact that tourists new to an area can be overwhelemed and bombarded with new information. These features include but are not at all limited to;
+
+
+#### Points of Interest (POI)
+![MyTour](demo/show_poi.gif)
+
+#### Subways
+![MyTour](demo/subway.gif)
+
+### Finding Options
+
+The UI gives the user the opportunity to search for and find various things. These include but are not limited to;
+
+
+#### Finding Streets
+
+Users can search for streets in a city. The software can ignore any minor spelling mistakes inputted and still correctly find the correct street.
+
+![MyTour](demo/find_street.gif)
+
+#### Finding Points of Interest (POI)
+
+Users can search for POI in a city. The software can ignore any minor spelling mistakes inputted and still correctly find the correct POI.
+
+![MyTour](demo/find_poi.gif)
+
+#### Finding Paths
+
+Users have the ability to use the UI to find the shortest path between two points using the A* path-find algorithm. Users have 2 options;
+
+##### Click on the starting and ending intersections:
+
+![MyTour](demo/find_path_click.gif)
+
+##### Type the four street names that define the starting and ending intersections:
+
+![MyTour](demo/find_path_type.gif)
+
+### Dark Mode
+
+Users can almost instantaneously switch into dark mode if they prefer darker colours.
+
+![MyTour](demo/darkmode.gif)
+
+The user also has the option of saving locations and coming back to them later.
