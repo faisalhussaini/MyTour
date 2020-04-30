@@ -14,6 +14,6 @@ This demo shows how the application can be used to help users plan their trip to
 
 ### Zoom and Shift Map
 Users have the ability to easily zoom and move the map to explore a new city
-![MyTour] (demo/zoom_mov.gif)
+![MyTour](demo/zoom_mov.gif)
 
 
