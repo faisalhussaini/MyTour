@@ -1,5 +1,5 @@
 # MyTour
-A GIS navigation software aimed towards tourists.
+A C++ GIS navigation software aimed towards tourists.
 
 
 Designed a mapping GIS in C++ catered specifically towards tourists using data procured from OpenStreetMaps. Used the GTK graphics package to create an interactive UI. 
